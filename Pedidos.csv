@@ -1,0 +1,6 @@
+id_pedido,id_cliente,data_pedido,total_pedido,status
+1,101,2024-02-15,250,Pago
+2,102,2024-02-16,125,Pendente
+3,101,2024-02-17,300,Cancelado
+4,103,2024-02-18,450,Pago
+5,102,2024-02-19,50,Pago
